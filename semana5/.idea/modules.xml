@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eliminador_de_letras_repetidas/Eliminador_de_letras_repetidas.iml" filepath="$PROJECT_DIR$/Eliminador_de_letras_repetidas/Eliminador_de_letras_repetidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palabra_popular/Palabra_popular.iml" filepath="$PROJECT_DIR$/Palabra_popular/Palabra_popular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cifrado/cifrado.iml" filepath="$PROJECT_DIR$/cifrado/cifrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/semana5.iml" filepath="$PROJECT_DIR$/.idea/semana5.iml" />
+    </modules>
+  </component>
+</project>
